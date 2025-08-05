@@ -1,2 +1,2 @@
 # Calculator
-easy peacy
+simple calc
